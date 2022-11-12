@@ -1,0 +1,26 @@
+*{
+    margin: auto;
+
+}
+
+header{
+    background-color: black;
+    max-height: 50px;
+    width: auto;
+}
+
+header > .container, a{
+    color: white;
+    max-width: fit-content;
+    
+}
+
+ul{
+    margin: 0;
+    padding: 0;
+}
+
+li{
+    display: inline;
+    padding: 10px;
+}
